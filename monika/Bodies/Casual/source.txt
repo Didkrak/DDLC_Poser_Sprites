@@ -1,0 +1,4 @@
+Taken from the mood posing tool.
+https://github.com/chronoshag/DDLCMPT
+
+Minor edits by u/Didkrak, including lengthening her arms to match other sprites.
