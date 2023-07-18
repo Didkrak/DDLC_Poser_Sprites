@@ -1,0 +1,7 @@
+Base Game = from the base game, with minor edits
+
+MPT = from the mood posing tool, with minor edits
+https://github.com/chronoshag/DDLCMPT
+
+Lunatic Rabbit = made by u/Lunatic_Rabbit, with minor edits
+https://www.reddit.com/r/DDLC/comments/99rfoa/monika_head_sprite_edits_now_with_transparently/
